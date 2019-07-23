@@ -17,5 +17,7 @@ IP：120.79.53.39
 + MySQL
 + MariaDB
 + git
++ node.js
+
 
 ## 安卓前端配置

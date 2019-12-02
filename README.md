@@ -2,7 +2,7 @@
 CrowdOS，群智感知平台代码管理。**此项目为public开源项目，切记清除账号密码等敏感信息。**
 
 ## Android
-https://github.com/BluthLeee/CrowdOS
+https://github.com/BluthLeee/CrowdOS/releases
 
 ## CrowdChain
 https://github.com/JackKing-defier/CrowdChain/releases

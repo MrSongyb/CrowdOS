@@ -1,5 +1,8 @@
 # CrowdOS
-CrowdOS，群智感知平台代码管理。**此项目为public开源项目，切记清除账号密码等敏感信息。**
+CrowdOS，群智感知平台代码管理。
+
+## News!
+[第四届中国软件开源创新大赛-CrowdOS移动群智感知平台开发大赛](https://forgeplus.trustie.net/projects/CrowdOS_WeSense/CrowdOS_WeSense/about)正在召开！
 
 ## Android
 https://github.com/BluthLeee/CrowdOS/releases
@@ -11,14 +14,4 @@ https://github.com/DarenSu/CrowdOS
 https://github.com/JackKing-defier/CrowdChain/releases
 
 
-
-## 云主机配置
-阿里云学生主机，CentOS 7
-IP：120.79.53.39
-
-已安装环境：
-+ MySQL
-+ MariaDB
-+ git
-+ node.js
 

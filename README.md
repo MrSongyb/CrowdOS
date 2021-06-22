@@ -4,6 +4,9 @@ CrowdOS，群智感知平台代码管理。**此项目为public开源项目，�
 ## Android
 https://github.com/BluthLeee/CrowdOS/releases
 
+## Back-end
+https://github.com/DarenSu/CrowdOS
+
 ## CrowdChain
 https://github.com/JackKing-defier/CrowdChain/releases
 
